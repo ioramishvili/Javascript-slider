@@ -1,2 +1,2 @@
-# js-slider
-Simple JS slider with css animation
+# Javascrip slider
+Simple Javascript slider with js+css animation
